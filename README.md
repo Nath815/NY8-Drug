@@ -1,3 +1,5 @@
+VERSION 0.0.1
+
 FRANCAIS/FR
 
 Simple système de drogue scripte full customisable dans le config.lua !!! 
